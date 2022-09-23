@@ -43,7 +43,19 @@ P-value is above 0.05.
 
 After running T-Tests on suspension coils for the population mean as well as for every individual lot I noticed that every single lot had a p-value above 0.05 which could possibly mean that there may be a statistical difference between the mean of the groups and population.
 
+## Study Design: MechaCar vs Competition
+
+### What metric or metrics are you going to test?
+The metrics I would use to test would be the highway and city fuel efficiencies. People tend to prefer vehicles with better fuel efficiency to save on gas.
 
 
+### What is the null hypothesis or alternative hypothesis?
+The null hypothesis would be that all cars in the same category have the same city/highway fuel efficiency. And the alternative hypothesis would be that different categories of vehicles have different fuel efficiencies.
+
+### What statistical test would you use to test the hypothesis? And why?
+I would definitely use a ggplot2 box plot to be able to see the differences between vehicles and their fuel efficiencies. I would also perform an ANOVA test to analyze both types of fuel efficiencies for each vehicle category.
+
+### What data is needed to run the statistical test?
+The data needed to run the statistical tests would be the fuel efficiency records of at least 50 different vehicles per category of vehicle. Although the more samples, the better to be able to get more accurate results.
 
 
