@@ -24,11 +24,12 @@ The current manufacturing data does meet the design specifications for lots 1 an
 
 ## T-Tests on Suspension Coils
 <img width="426" alt="Screen Shot 2022-09-23 at 12 26 28 PM" src="https://user-images.githubusercontent.com/104862099/192043382-ec526368-98cb-4caf-bc6a-b4ffbe59da11.png">
-
+P-value is above 0.05
 <img width="491" alt="Screen Shot 2022-09-23 at 12 26 41 PM" src="https://user-images.githubusercontent.com/104862099/192043401-b61bef6a-5258-434d-abcb-9d4fee19bf2a.png">
-
+P-value is above 0.05
 <img width="492" alt="Screen Shot 2022-09-23 at 12 28 36 PM" src="https://user-images.githubusercontent.com/104862099/192043409-d1ea5b8d-3ded-4299-adaf-e3b3d02b7703.png">
-
+P-value is above 0.05
 <img width="490" alt="Screen Shot 2022-09-23 at 12 28 53 PM" src="https://user-images.githubusercontent.com/104862099/192043427-82a3a095-3e26-4e26-bceb-a6b57b83b234.png">
-
+P-value is above 0.05
+After running T-Tests on suspension coils for the population mean as well as for every individual lot I noticed that every single lot had a p-value above 0.05 which could possibly mean that there may be a statistical difference between the mean of the groups and population.
 
